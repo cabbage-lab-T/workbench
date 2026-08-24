@@ -1,15 +1,15 @@
 # 工作台
 
-博士阶段个人工作台：工作记录、长期/今日任务、周日历、论文与专利、项目管理、生活打卡，以及跨设备云同步。
+博士阶段个人工作台：工作记录、长期与今日任务、周日历、论文与专利、项目管理，以及跨设备云同步。
 
 - 在线使用：https://cabbage-lab-t.github.io/workbench/
 - 不需要 GitHub、GPT 或其他账号
 - 本地记录保存在浏览器；启用云同步后，可在电脑和 iPhone 之间同步
-- 云端数据库初始化脚本：`supabase-setup.sql`
+- 云端数据库初始化脚本：\`supabase-setup.sql\`
 
 ## 云同步
 
-1. 在 Supabase SQL Editor 运行 `supabase-setup.sql`。
+1. 在 Supabase SQL Editor 运行 \`supabase-setup.sql\`。
 2. 第一台设备点击“仅本地”，生成同步码并保存当前数据。
 3. 另一台设备输入同一个同步码，连接同一份记录。
 
