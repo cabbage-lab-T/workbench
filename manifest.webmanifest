@@ -1,0 +1,20 @@
+{
+  "name": "工作台",
+  "short_name": "工作台",
+  "description": "管理任务、工作时间、论文专利、大项目和生活打卡。",
+  "lang": "zh-CN",
+  "start_url": "/workbench/",
+  "scope": "/workbench/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f8f6f1",
+  "theme_color": "#466c57",
+  "icons": [
+    {
+      "src": "/workbench/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
